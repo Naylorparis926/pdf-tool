@@ -1,2 +1,0 @@
-[phases.setup]
-nixPkgs = ["pango", "cairo", "gdk-pixbuf", "pkg-config", "shared-mime-info"]
